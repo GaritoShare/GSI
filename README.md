@@ -1,0 +1,2 @@
+# GSI
+GaritoShareIndex
